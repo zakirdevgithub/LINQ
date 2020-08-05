@@ -1,0 +1,9 @@
+a.Projection Operators= 1.Select & 2.SelectMany
+b.Filtering Operators= 1.Where & 2.OfType
+c.Sorting Operators= 1.OrderBy, 2.OrderByDescending, 3.ThenBy, 4.ThenByDescending & 5.Reverse
+d.Quantifier Operators= 1.All, 2.Any & 3.Contains
+e.Set Operators= 1.Distinct, 2.Except, 3.Intersect & 4.Union
+f.Partitioning Operators= 1.Take, 2.TakeWhile, 3.Skip & 4.SkipWhile
+g.Join Operator= 1.Join & 2.GroupJoin
+h.Element Operator= 1.ElementAt, 2.ElementAtOrDefault, 3.First, 4.FirstOrDefault, 
+                    5.Last, 6.LastOrDefault, 7.Single & 8.SingleOrDefault

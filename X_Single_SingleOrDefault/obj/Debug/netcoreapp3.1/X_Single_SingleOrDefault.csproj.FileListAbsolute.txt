@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\X_Single_SingleOrDefault\bin\Debug\netcoreapp3.1\X_Single_SingleOrDefault.exe
+H:\LINQ\LINQ\X_Single_SingleOrDefault\bin\Debug\netcoreapp3.1\X_Single_SingleOrDefault.deps.json
+H:\LINQ\LINQ\X_Single_SingleOrDefault\bin\Debug\netcoreapp3.1\X_Single_SingleOrDefault.runtimeconfig.json
+H:\LINQ\LINQ\X_Single_SingleOrDefault\bin\Debug\netcoreapp3.1\X_Single_SingleOrDefault.runtimeconfig.dev.json
+H:\LINQ\LINQ\X_Single_SingleOrDefault\bin\Debug\netcoreapp3.1\X_Single_SingleOrDefault.dll
+H:\LINQ\LINQ\X_Single_SingleOrDefault\bin\Debug\netcoreapp3.1\X_Single_SingleOrDefault.pdb
+H:\LINQ\LINQ\X_Single_SingleOrDefault\obj\Debug\netcoreapp3.1\X_Single_SingleOrDefault.csprojAssemblyReference.cache
+H:\LINQ\LINQ\X_Single_SingleOrDefault\obj\Debug\netcoreapp3.1\X_Single_SingleOrDefault.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\X_Single_SingleOrDefault\obj\Debug\netcoreapp3.1\X_Single_SingleOrDefault.AssemblyInfo.cs
+H:\LINQ\LINQ\X_Single_SingleOrDefault\obj\Debug\netcoreapp3.1\X_Single_SingleOrDefault.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\X_Single_SingleOrDefault\obj\Debug\netcoreapp3.1\X_Single_SingleOrDefault.dll
+H:\LINQ\LINQ\X_Single_SingleOrDefault\obj\Debug\netcoreapp3.1\X_Single_SingleOrDefault.pdb
+H:\LINQ\LINQ\X_Single_SingleOrDefault\obj\Debug\netcoreapp3.1\X_Single_SingleOrDefault.genruntimeconfig.cache

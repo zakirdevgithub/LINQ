@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "A_LINQ_Syntax/1.0.0": {
+        "runtime": {
+          "A_LINQ_Syntax.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A_LINQ_Syntax/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

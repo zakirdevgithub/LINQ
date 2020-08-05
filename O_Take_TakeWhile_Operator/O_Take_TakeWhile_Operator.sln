@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O_Take_TakeWhile_Operator", "O_Take_TakeWhile_Operator.csproj", "{87FCA0F9-48A4-49BF-A059-ACCE17086FA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87FCA0F9-48A4-49BF-A059-ACCE17086FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FCA0F9-48A4-49BF-A059-ACCE17086FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FCA0F9-48A4-49BF-A059-ACCE17086FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FCA0F9-48A4-49BF-A059-ACCE17086FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11058CA0-0595-4F69-A879-1E0016B402E1}
+	EndGlobalSection
+EndGlobal

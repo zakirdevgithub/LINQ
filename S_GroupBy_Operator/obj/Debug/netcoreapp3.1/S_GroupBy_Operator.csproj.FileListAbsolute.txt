@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\S_GroupBy_Operator\bin\Debug\netcoreapp3.1\S_GroupBy_Operator.exe
+H:\LINQ\LINQ\S_GroupBy_Operator\bin\Debug\netcoreapp3.1\S_GroupBy_Operator.deps.json
+H:\LINQ\LINQ\S_GroupBy_Operator\bin\Debug\netcoreapp3.1\S_GroupBy_Operator.runtimeconfig.json
+H:\LINQ\LINQ\S_GroupBy_Operator\bin\Debug\netcoreapp3.1\S_GroupBy_Operator.runtimeconfig.dev.json
+H:\LINQ\LINQ\S_GroupBy_Operator\bin\Debug\netcoreapp3.1\S_GroupBy_Operator.dll
+H:\LINQ\LINQ\S_GroupBy_Operator\bin\Debug\netcoreapp3.1\S_GroupBy_Operator.pdb
+H:\LINQ\LINQ\S_GroupBy_Operator\obj\Debug\netcoreapp3.1\S_GroupBy_Operator.csprojAssemblyReference.cache
+H:\LINQ\LINQ\S_GroupBy_Operator\obj\Debug\netcoreapp3.1\S_GroupBy_Operator.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\S_GroupBy_Operator\obj\Debug\netcoreapp3.1\S_GroupBy_Operator.AssemblyInfo.cs
+H:\LINQ\LINQ\S_GroupBy_Operator\obj\Debug\netcoreapp3.1\S_GroupBy_Operator.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\S_GroupBy_Operator\obj\Debug\netcoreapp3.1\S_GroupBy_Operator.dll
+H:\LINQ\LINQ\S_GroupBy_Operator\obj\Debug\netcoreapp3.1\S_GroupBy_Operator.pdb
+H:\LINQ\LINQ\S_GroupBy_Operator\obj\Debug\netcoreapp3.1\S_GroupBy_Operator.genruntimeconfig.cache

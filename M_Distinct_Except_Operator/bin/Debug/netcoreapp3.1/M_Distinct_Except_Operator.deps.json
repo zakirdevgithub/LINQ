@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M_Distinct_Except_Operator/1.0.0": {
+        "runtime": {
+          "M_Distinct_Except_Operator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M_Distinct_Except_Operator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

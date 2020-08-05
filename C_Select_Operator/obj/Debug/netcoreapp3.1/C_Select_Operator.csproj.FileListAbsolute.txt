@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\C_Select_Operator\bin\Debug\netcoreapp3.1\C_Select_Operator.exe
+H:\LINQ\LINQ\C_Select_Operator\bin\Debug\netcoreapp3.1\C_Select_Operator.deps.json
+H:\LINQ\LINQ\C_Select_Operator\bin\Debug\netcoreapp3.1\C_Select_Operator.runtimeconfig.json
+H:\LINQ\LINQ\C_Select_Operator\bin\Debug\netcoreapp3.1\C_Select_Operator.runtimeconfig.dev.json
+H:\LINQ\LINQ\C_Select_Operator\bin\Debug\netcoreapp3.1\C_Select_Operator.dll
+H:\LINQ\LINQ\C_Select_Operator\bin\Debug\netcoreapp3.1\C_Select_Operator.pdb
+H:\LINQ\LINQ\C_Select_Operator\obj\Debug\netcoreapp3.1\C_Select_Operator.csprojAssemblyReference.cache
+H:\LINQ\LINQ\C_Select_Operator\obj\Debug\netcoreapp3.1\C_Select_Operator.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\C_Select_Operator\obj\Debug\netcoreapp3.1\C_Select_Operator.AssemblyInfo.cs
+H:\LINQ\LINQ\C_Select_Operator\obj\Debug\netcoreapp3.1\C_Select_Operator.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\C_Select_Operator\obj\Debug\netcoreapp3.1\C_Select_Operator.dll
+H:\LINQ\LINQ\C_Select_Operator\obj\Debug\netcoreapp3.1\C_Select_Operator.pdb
+H:\LINQ\LINQ\C_Select_Operator\obj\Debug\netcoreapp3.1\C_Select_Operator.genruntimeconfig.cache

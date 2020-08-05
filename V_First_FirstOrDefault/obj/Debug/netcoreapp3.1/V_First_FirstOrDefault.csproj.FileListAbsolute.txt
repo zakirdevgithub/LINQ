@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\V_First_FirstOrDefault\bin\Debug\netcoreapp3.1\V_First_FirstOrDefault.exe
+H:\LINQ\LINQ\V_First_FirstOrDefault\bin\Debug\netcoreapp3.1\V_First_FirstOrDefault.deps.json
+H:\LINQ\LINQ\V_First_FirstOrDefault\bin\Debug\netcoreapp3.1\V_First_FirstOrDefault.runtimeconfig.json
+H:\LINQ\LINQ\V_First_FirstOrDefault\bin\Debug\netcoreapp3.1\V_First_FirstOrDefault.runtimeconfig.dev.json
+H:\LINQ\LINQ\V_First_FirstOrDefault\bin\Debug\netcoreapp3.1\V_First_FirstOrDefault.dll
+H:\LINQ\LINQ\V_First_FirstOrDefault\bin\Debug\netcoreapp3.1\V_First_FirstOrDefault.pdb
+H:\LINQ\LINQ\V_First_FirstOrDefault\obj\Debug\netcoreapp3.1\V_First_FirstOrDefault.csprojAssemblyReference.cache
+H:\LINQ\LINQ\V_First_FirstOrDefault\obj\Debug\netcoreapp3.1\V_First_FirstOrDefault.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\V_First_FirstOrDefault\obj\Debug\netcoreapp3.1\V_First_FirstOrDefault.AssemblyInfo.cs
+H:\LINQ\LINQ\V_First_FirstOrDefault\obj\Debug\netcoreapp3.1\V_First_FirstOrDefault.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\V_First_FirstOrDefault\obj\Debug\netcoreapp3.1\V_First_FirstOrDefault.dll
+H:\LINQ\LINQ\V_First_FirstOrDefault\obj\Debug\netcoreapp3.1\V_First_FirstOrDefault.pdb
+H:\LINQ\LINQ\V_First_FirstOrDefault\obj\Debug\netcoreapp3.1\V_First_FirstOrDefault.genruntimeconfig.cache

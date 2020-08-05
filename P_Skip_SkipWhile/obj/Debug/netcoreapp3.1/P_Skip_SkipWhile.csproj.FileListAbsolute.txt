@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\P_Skip_SkipWhile\bin\Debug\netcoreapp3.1\P_Skip_SkipWhile.exe
+H:\LINQ\LINQ\P_Skip_SkipWhile\bin\Debug\netcoreapp3.1\P_Skip_SkipWhile.deps.json
+H:\LINQ\LINQ\P_Skip_SkipWhile\bin\Debug\netcoreapp3.1\P_Skip_SkipWhile.runtimeconfig.json
+H:\LINQ\LINQ\P_Skip_SkipWhile\bin\Debug\netcoreapp3.1\P_Skip_SkipWhile.runtimeconfig.dev.json
+H:\LINQ\LINQ\P_Skip_SkipWhile\bin\Debug\netcoreapp3.1\P_Skip_SkipWhile.dll
+H:\LINQ\LINQ\P_Skip_SkipWhile\bin\Debug\netcoreapp3.1\P_Skip_SkipWhile.pdb
+H:\LINQ\LINQ\P_Skip_SkipWhile\obj\Debug\netcoreapp3.1\P_Skip_SkipWhile.csprojAssemblyReference.cache
+H:\LINQ\LINQ\P_Skip_SkipWhile\obj\Debug\netcoreapp3.1\P_Skip_SkipWhile.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\P_Skip_SkipWhile\obj\Debug\netcoreapp3.1\P_Skip_SkipWhile.AssemblyInfo.cs
+H:\LINQ\LINQ\P_Skip_SkipWhile\obj\Debug\netcoreapp3.1\P_Skip_SkipWhile.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\P_Skip_SkipWhile\obj\Debug\netcoreapp3.1\P_Skip_SkipWhile.dll
+H:\LINQ\LINQ\P_Skip_SkipWhile\obj\Debug\netcoreapp3.1\P_Skip_SkipWhile.pdb
+H:\LINQ\LINQ\P_Skip_SkipWhile\obj\Debug\netcoreapp3.1\P_Skip_SkipWhile.genruntimeconfig.cache

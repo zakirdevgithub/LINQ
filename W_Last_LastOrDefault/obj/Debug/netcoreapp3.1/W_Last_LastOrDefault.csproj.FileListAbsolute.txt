@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\W_Last_LastOrDefault\bin\Debug\netcoreapp3.1\W_Last_LastOrDefault.exe
+H:\LINQ\LINQ\W_Last_LastOrDefault\bin\Debug\netcoreapp3.1\W_Last_LastOrDefault.deps.json
+H:\LINQ\LINQ\W_Last_LastOrDefault\bin\Debug\netcoreapp3.1\W_Last_LastOrDefault.runtimeconfig.json
+H:\LINQ\LINQ\W_Last_LastOrDefault\bin\Debug\netcoreapp3.1\W_Last_LastOrDefault.runtimeconfig.dev.json
+H:\LINQ\LINQ\W_Last_LastOrDefault\bin\Debug\netcoreapp3.1\W_Last_LastOrDefault.dll
+H:\LINQ\LINQ\W_Last_LastOrDefault\bin\Debug\netcoreapp3.1\W_Last_LastOrDefault.pdb
+H:\LINQ\LINQ\W_Last_LastOrDefault\obj\Debug\netcoreapp3.1\W_Last_LastOrDefault.csprojAssemblyReference.cache
+H:\LINQ\LINQ\W_Last_LastOrDefault\obj\Debug\netcoreapp3.1\W_Last_LastOrDefault.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\W_Last_LastOrDefault\obj\Debug\netcoreapp3.1\W_Last_LastOrDefault.AssemblyInfo.cs
+H:\LINQ\LINQ\W_Last_LastOrDefault\obj\Debug\netcoreapp3.1\W_Last_LastOrDefault.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\W_Last_LastOrDefault\obj\Debug\netcoreapp3.1\W_Last_LastOrDefault.dll
+H:\LINQ\LINQ\W_Last_LastOrDefault\obj\Debug\netcoreapp3.1\W_Last_LastOrDefault.pdb
+H:\LINQ\LINQ\W_Last_LastOrDefault\obj\Debug\netcoreapp3.1\W_Last_LastOrDefault.genruntimeconfig.cache

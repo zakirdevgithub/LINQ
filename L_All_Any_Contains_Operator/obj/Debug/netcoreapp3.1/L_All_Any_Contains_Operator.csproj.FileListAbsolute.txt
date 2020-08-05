@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\L_All_Any_Contains_Operator\bin\Debug\netcoreapp3.1\L_All_Any_Contains_Operator.exe
+H:\LINQ\LINQ\L_All_Any_Contains_Operator\bin\Debug\netcoreapp3.1\L_All_Any_Contains_Operator.deps.json
+H:\LINQ\LINQ\L_All_Any_Contains_Operator\bin\Debug\netcoreapp3.1\L_All_Any_Contains_Operator.runtimeconfig.json
+H:\LINQ\LINQ\L_All_Any_Contains_Operator\bin\Debug\netcoreapp3.1\L_All_Any_Contains_Operator.runtimeconfig.dev.json
+H:\LINQ\LINQ\L_All_Any_Contains_Operator\bin\Debug\netcoreapp3.1\L_All_Any_Contains_Operator.dll
+H:\LINQ\LINQ\L_All_Any_Contains_Operator\bin\Debug\netcoreapp3.1\L_All_Any_Contains_Operator.pdb
+H:\LINQ\LINQ\L_All_Any_Contains_Operator\obj\Debug\netcoreapp3.1\L_All_Any_Contains_Operator.csprojAssemblyReference.cache
+H:\LINQ\LINQ\L_All_Any_Contains_Operator\obj\Debug\netcoreapp3.1\L_All_Any_Contains_Operator.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\L_All_Any_Contains_Operator\obj\Debug\netcoreapp3.1\L_All_Any_Contains_Operator.AssemblyInfo.cs
+H:\LINQ\LINQ\L_All_Any_Contains_Operator\obj\Debug\netcoreapp3.1\L_All_Any_Contains_Operator.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\L_All_Any_Contains_Operator\obj\Debug\netcoreapp3.1\L_All_Any_Contains_Operator.dll
+H:\LINQ\LINQ\L_All_Any_Contains_Operator\obj\Debug\netcoreapp3.1\L_All_Any_Contains_Operator.pdb
+H:\LINQ\LINQ\L_All_Any_Contains_Operator\obj\Debug\netcoreapp3.1\L_All_Any_Contains_Operator.genruntimeconfig.cache

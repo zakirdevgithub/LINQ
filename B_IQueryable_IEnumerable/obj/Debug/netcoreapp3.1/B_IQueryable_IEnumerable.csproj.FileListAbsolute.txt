@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\B_IQueryable_IEnumerable\bin\Debug\netcoreapp3.1\B_IQueryable_IEnumerable.exe
+H:\LINQ\LINQ\B_IQueryable_IEnumerable\bin\Debug\netcoreapp3.1\B_IQueryable_IEnumerable.deps.json
+H:\LINQ\LINQ\B_IQueryable_IEnumerable\bin\Debug\netcoreapp3.1\B_IQueryable_IEnumerable.runtimeconfig.json
+H:\LINQ\LINQ\B_IQueryable_IEnumerable\bin\Debug\netcoreapp3.1\B_IQueryable_IEnumerable.runtimeconfig.dev.json
+H:\LINQ\LINQ\B_IQueryable_IEnumerable\bin\Debug\netcoreapp3.1\B_IQueryable_IEnumerable.dll
+H:\LINQ\LINQ\B_IQueryable_IEnumerable\bin\Debug\netcoreapp3.1\B_IQueryable_IEnumerable.pdb
+H:\LINQ\LINQ\B_IQueryable_IEnumerable\obj\Debug\netcoreapp3.1\B_IQueryable_IEnumerable.csprojAssemblyReference.cache
+H:\LINQ\LINQ\B_IQueryable_IEnumerable\obj\Debug\netcoreapp3.1\B_IQueryable_IEnumerable.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\B_IQueryable_IEnumerable\obj\Debug\netcoreapp3.1\B_IQueryable_IEnumerable.AssemblyInfo.cs
+H:\LINQ\LINQ\B_IQueryable_IEnumerable\obj\Debug\netcoreapp3.1\B_IQueryable_IEnumerable.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\B_IQueryable_IEnumerable\obj\Debug\netcoreapp3.1\B_IQueryable_IEnumerable.dll
+H:\LINQ\LINQ\B_IQueryable_IEnumerable\obj\Debug\netcoreapp3.1\B_IQueryable_IEnumerable.pdb
+H:\LINQ\LINQ\B_IQueryable_IEnumerable\obj\Debug\netcoreapp3.1\B_IQueryable_IEnumerable.genruntimeconfig.cache

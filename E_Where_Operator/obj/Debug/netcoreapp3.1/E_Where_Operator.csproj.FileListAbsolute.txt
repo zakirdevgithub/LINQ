@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\E_Where_Operator\bin\Debug\netcoreapp3.1\E_Where_Operator.exe
+H:\LINQ\LINQ\E_Where_Operator\bin\Debug\netcoreapp3.1\E_Where_Operator.deps.json
+H:\LINQ\LINQ\E_Where_Operator\bin\Debug\netcoreapp3.1\E_Where_Operator.runtimeconfig.json
+H:\LINQ\LINQ\E_Where_Operator\bin\Debug\netcoreapp3.1\E_Where_Operator.runtimeconfig.dev.json
+H:\LINQ\LINQ\E_Where_Operator\bin\Debug\netcoreapp3.1\E_Where_Operator.dll
+H:\LINQ\LINQ\E_Where_Operator\bin\Debug\netcoreapp3.1\E_Where_Operator.pdb
+H:\LINQ\LINQ\E_Where_Operator\obj\Debug\netcoreapp3.1\E_Where_Operator.csprojAssemblyReference.cache
+H:\LINQ\LINQ\E_Where_Operator\obj\Debug\netcoreapp3.1\E_Where_Operator.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\E_Where_Operator\obj\Debug\netcoreapp3.1\E_Where_Operator.AssemblyInfo.cs
+H:\LINQ\LINQ\E_Where_Operator\obj\Debug\netcoreapp3.1\E_Where_Operator.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\E_Where_Operator\obj\Debug\netcoreapp3.1\E_Where_Operator.dll
+H:\LINQ\LINQ\E_Where_Operator\obj\Debug\netcoreapp3.1\E_Where_Operator.pdb
+H:\LINQ\LINQ\E_Where_Operator\obj\Debug\netcoreapp3.1\E_Where_Operator.genruntimeconfig.cache

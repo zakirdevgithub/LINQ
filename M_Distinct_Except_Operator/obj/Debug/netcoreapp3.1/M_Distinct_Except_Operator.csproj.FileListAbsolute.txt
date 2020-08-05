@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\M_Distinct_Except_Operator\bin\Debug\netcoreapp3.1\M_Distinct_Except_Operator.exe
+H:\LINQ\LINQ\M_Distinct_Except_Operator\bin\Debug\netcoreapp3.1\M_Distinct_Except_Operator.deps.json
+H:\LINQ\LINQ\M_Distinct_Except_Operator\bin\Debug\netcoreapp3.1\M_Distinct_Except_Operator.runtimeconfig.json
+H:\LINQ\LINQ\M_Distinct_Except_Operator\bin\Debug\netcoreapp3.1\M_Distinct_Except_Operator.runtimeconfig.dev.json
+H:\LINQ\LINQ\M_Distinct_Except_Operator\bin\Debug\netcoreapp3.1\M_Distinct_Except_Operator.dll
+H:\LINQ\LINQ\M_Distinct_Except_Operator\bin\Debug\netcoreapp3.1\M_Distinct_Except_Operator.pdb
+H:\LINQ\LINQ\M_Distinct_Except_Operator\obj\Debug\netcoreapp3.1\M_Distinct_Except_Operator.csprojAssemblyReference.cache
+H:\LINQ\LINQ\M_Distinct_Except_Operator\obj\Debug\netcoreapp3.1\M_Distinct_Except_Operator.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\M_Distinct_Except_Operator\obj\Debug\netcoreapp3.1\M_Distinct_Except_Operator.AssemblyInfo.cs
+H:\LINQ\LINQ\M_Distinct_Except_Operator\obj\Debug\netcoreapp3.1\M_Distinct_Except_Operator.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\M_Distinct_Except_Operator\obj\Debug\netcoreapp3.1\M_Distinct_Except_Operator.dll
+H:\LINQ\LINQ\M_Distinct_Except_Operator\obj\Debug\netcoreapp3.1\M_Distinct_Except_Operator.pdb
+H:\LINQ\LINQ\M_Distinct_Except_Operator\obj\Debug\netcoreapp3.1\M_Distinct_Except_Operator.genruntimeconfig.cache

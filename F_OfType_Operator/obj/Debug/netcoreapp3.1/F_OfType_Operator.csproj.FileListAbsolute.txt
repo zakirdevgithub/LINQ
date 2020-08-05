@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\F_OfType_Operator\bin\Debug\netcoreapp3.1\F_OfType_Operator.exe
+H:\LINQ\LINQ\F_OfType_Operator\bin\Debug\netcoreapp3.1\F_OfType_Operator.deps.json
+H:\LINQ\LINQ\F_OfType_Operator\bin\Debug\netcoreapp3.1\F_OfType_Operator.runtimeconfig.json
+H:\LINQ\LINQ\F_OfType_Operator\bin\Debug\netcoreapp3.1\F_OfType_Operator.runtimeconfig.dev.json
+H:\LINQ\LINQ\F_OfType_Operator\bin\Debug\netcoreapp3.1\F_OfType_Operator.dll
+H:\LINQ\LINQ\F_OfType_Operator\bin\Debug\netcoreapp3.1\F_OfType_Operator.pdb
+H:\LINQ\LINQ\F_OfType_Operator\obj\Debug\netcoreapp3.1\F_OfType_Operator.csprojAssemblyReference.cache
+H:\LINQ\LINQ\F_OfType_Operator\obj\Debug\netcoreapp3.1\F_OfType_Operator.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\F_OfType_Operator\obj\Debug\netcoreapp3.1\F_OfType_Operator.AssemblyInfo.cs
+H:\LINQ\LINQ\F_OfType_Operator\obj\Debug\netcoreapp3.1\F_OfType_Operator.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\F_OfType_Operator\obj\Debug\netcoreapp3.1\F_OfType_Operator.dll
+H:\LINQ\LINQ\F_OfType_Operator\obj\Debug\netcoreapp3.1\F_OfType_Operator.pdb
+H:\LINQ\LINQ\F_OfType_Operator\obj\Debug\netcoreapp3.1\F_OfType_Operator.genruntimeconfig.cache

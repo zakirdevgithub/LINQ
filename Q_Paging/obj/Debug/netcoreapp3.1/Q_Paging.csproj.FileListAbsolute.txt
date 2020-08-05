@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\Q_Paging\bin\Debug\netcoreapp3.1\Q_Paging.exe
+H:\LINQ\LINQ\Q_Paging\bin\Debug\netcoreapp3.1\Q_Paging.deps.json
+H:\LINQ\LINQ\Q_Paging\bin\Debug\netcoreapp3.1\Q_Paging.runtimeconfig.json
+H:\LINQ\LINQ\Q_Paging\bin\Debug\netcoreapp3.1\Q_Paging.runtimeconfig.dev.json
+H:\LINQ\LINQ\Q_Paging\bin\Debug\netcoreapp3.1\Q_Paging.dll
+H:\LINQ\LINQ\Q_Paging\bin\Debug\netcoreapp3.1\Q_Paging.pdb
+H:\LINQ\LINQ\Q_Paging\obj\Debug\netcoreapp3.1\Q_Paging.csprojAssemblyReference.cache
+H:\LINQ\LINQ\Q_Paging\obj\Debug\netcoreapp3.1\Q_Paging.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\Q_Paging\obj\Debug\netcoreapp3.1\Q_Paging.AssemblyInfo.cs
+H:\LINQ\LINQ\Q_Paging\obj\Debug\netcoreapp3.1\Q_Paging.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\Q_Paging\obj\Debug\netcoreapp3.1\Q_Paging.dll
+H:\LINQ\LINQ\Q_Paging\obj\Debug\netcoreapp3.1\Q_Paging.pdb
+H:\LINQ\LINQ\Q_Paging\obj\Debug\netcoreapp3.1\Q_Paging.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+H:\LINQ\LINQ\N_Intersect_Union_Operator\bin\Debug\netcoreapp3.1\N_Intersect_Union_Operator.exe
+H:\LINQ\LINQ\N_Intersect_Union_Operator\bin\Debug\netcoreapp3.1\N_Intersect_Union_Operator.deps.json
+H:\LINQ\LINQ\N_Intersect_Union_Operator\bin\Debug\netcoreapp3.1\N_Intersect_Union_Operator.runtimeconfig.json
+H:\LINQ\LINQ\N_Intersect_Union_Operator\bin\Debug\netcoreapp3.1\N_Intersect_Union_Operator.runtimeconfig.dev.json
+H:\LINQ\LINQ\N_Intersect_Union_Operator\bin\Debug\netcoreapp3.1\N_Intersect_Union_Operator.dll
+H:\LINQ\LINQ\N_Intersect_Union_Operator\bin\Debug\netcoreapp3.1\N_Intersect_Union_Operator.pdb
+H:\LINQ\LINQ\N_Intersect_Union_Operator\obj\Debug\netcoreapp3.1\N_Intersect_Union_Operator.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\N_Intersect_Union_Operator\obj\Debug\netcoreapp3.1\N_Intersect_Union_Operator.AssemblyInfo.cs
+H:\LINQ\LINQ\N_Intersect_Union_Operator\obj\Debug\netcoreapp3.1\N_Intersect_Union_Operator.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\N_Intersect_Union_Operator\obj\Debug\netcoreapp3.1\N_Intersect_Union_Operator.dll
+H:\LINQ\LINQ\N_Intersect_Union_Operator\obj\Debug\netcoreapp3.1\N_Intersect_Union_Operator.pdb
+H:\LINQ\LINQ\N_Intersect_Union_Operator\obj\Debug\netcoreapp3.1\N_Intersect_Union_Operator.genruntimeconfig.cache

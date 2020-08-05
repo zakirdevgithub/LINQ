@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\A_LINQ_Syntax\bin\Debug\netcoreapp3.1\A_LINQ_Syntax.exe
+H:\LINQ\LINQ\A_LINQ_Syntax\bin\Debug\netcoreapp3.1\A_LINQ_Syntax.deps.json
+H:\LINQ\LINQ\A_LINQ_Syntax\bin\Debug\netcoreapp3.1\A_LINQ_Syntax.runtimeconfig.json
+H:\LINQ\LINQ\A_LINQ_Syntax\bin\Debug\netcoreapp3.1\A_LINQ_Syntax.runtimeconfig.dev.json
+H:\LINQ\LINQ\A_LINQ_Syntax\bin\Debug\netcoreapp3.1\A_LINQ_Syntax.dll
+H:\LINQ\LINQ\A_LINQ_Syntax\bin\Debug\netcoreapp3.1\A_LINQ_Syntax.pdb
+H:\LINQ\LINQ\A_LINQ_Syntax\obj\Debug\netcoreapp3.1\A_LINQ_Syntax.csprojAssemblyReference.cache
+H:\LINQ\LINQ\A_LINQ_Syntax\obj\Debug\netcoreapp3.1\A_LINQ_Syntax.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\A_LINQ_Syntax\obj\Debug\netcoreapp3.1\A_LINQ_Syntax.AssemblyInfo.cs
+H:\LINQ\LINQ\A_LINQ_Syntax\obj\Debug\netcoreapp3.1\A_LINQ_Syntax.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\A_LINQ_Syntax\obj\Debug\netcoreapp3.1\A_LINQ_Syntax.dll
+H:\LINQ\LINQ\A_LINQ_Syntax\obj\Debug\netcoreapp3.1\A_LINQ_Syntax.pdb
+H:\LINQ\LINQ\A_LINQ_Syntax\obj\Debug\netcoreapp3.1\A_LINQ_Syntax.genruntimeconfig.cache

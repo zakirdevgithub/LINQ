@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\O_Take_TakeWhile_Operator\bin\Debug\netcoreapp3.1\O_Take_TakeWhile_Operator.exe
+H:\LINQ\LINQ\O_Take_TakeWhile_Operator\bin\Debug\netcoreapp3.1\O_Take_TakeWhile_Operator.deps.json
+H:\LINQ\LINQ\O_Take_TakeWhile_Operator\bin\Debug\netcoreapp3.1\O_Take_TakeWhile_Operator.runtimeconfig.json
+H:\LINQ\LINQ\O_Take_TakeWhile_Operator\bin\Debug\netcoreapp3.1\O_Take_TakeWhile_Operator.runtimeconfig.dev.json
+H:\LINQ\LINQ\O_Take_TakeWhile_Operator\bin\Debug\netcoreapp3.1\O_Take_TakeWhile_Operator.dll
+H:\LINQ\LINQ\O_Take_TakeWhile_Operator\bin\Debug\netcoreapp3.1\O_Take_TakeWhile_Operator.pdb
+H:\LINQ\LINQ\O_Take_TakeWhile_Operator\obj\Debug\netcoreapp3.1\O_Take_TakeWhile_Operator.csprojAssemblyReference.cache
+H:\LINQ\LINQ\O_Take_TakeWhile_Operator\obj\Debug\netcoreapp3.1\O_Take_TakeWhile_Operator.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\O_Take_TakeWhile_Operator\obj\Debug\netcoreapp3.1\O_Take_TakeWhile_Operator.AssemblyInfo.cs
+H:\LINQ\LINQ\O_Take_TakeWhile_Operator\obj\Debug\netcoreapp3.1\O_Take_TakeWhile_Operator.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\O_Take_TakeWhile_Operator\obj\Debug\netcoreapp3.1\O_Take_TakeWhile_Operator.dll
+H:\LINQ\LINQ\O_Take_TakeWhile_Operator\obj\Debug\netcoreapp3.1\O_Take_TakeWhile_Operator.pdb
+H:\LINQ\LINQ\O_Take_TakeWhile_Operator\obj\Debug\netcoreapp3.1\O_Take_TakeWhile_Operator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\G_OrderBy_Operator\bin\Debug\netcoreapp3.1\G_OrderBy_Operator.exe
+H:\LINQ\LINQ\G_OrderBy_Operator\bin\Debug\netcoreapp3.1\G_OrderBy_Operator.deps.json
+H:\LINQ\LINQ\G_OrderBy_Operator\bin\Debug\netcoreapp3.1\G_OrderBy_Operator.runtimeconfig.json
+H:\LINQ\LINQ\G_OrderBy_Operator\bin\Debug\netcoreapp3.1\G_OrderBy_Operator.runtimeconfig.dev.json
+H:\LINQ\LINQ\G_OrderBy_Operator\bin\Debug\netcoreapp3.1\G_OrderBy_Operator.dll
+H:\LINQ\LINQ\G_OrderBy_Operator\bin\Debug\netcoreapp3.1\G_OrderBy_Operator.pdb
+H:\LINQ\LINQ\G_OrderBy_Operator\obj\Debug\netcoreapp3.1\G_OrderBy_Operator.csprojAssemblyReference.cache
+H:\LINQ\LINQ\G_OrderBy_Operator\obj\Debug\netcoreapp3.1\G_OrderBy_Operator.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\G_OrderBy_Operator\obj\Debug\netcoreapp3.1\G_OrderBy_Operator.AssemblyInfo.cs
+H:\LINQ\LINQ\G_OrderBy_Operator\obj\Debug\netcoreapp3.1\G_OrderBy_Operator.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\G_OrderBy_Operator\obj\Debug\netcoreapp3.1\G_OrderBy_Operator.dll
+H:\LINQ\LINQ\G_OrderBy_Operator\obj\Debug\netcoreapp3.1\G_OrderBy_Operator.pdb
+H:\LINQ\LINQ\G_OrderBy_Operator\obj\Debug\netcoreapp3.1\G_OrderBy_Operator.genruntimeconfig.cache

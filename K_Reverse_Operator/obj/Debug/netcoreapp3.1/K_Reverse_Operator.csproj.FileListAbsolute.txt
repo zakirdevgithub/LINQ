@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\K_Reverse_Operator\bin\Debug\netcoreapp3.1\K_Reverse_Operator.exe
+H:\LINQ\LINQ\K_Reverse_Operator\bin\Debug\netcoreapp3.1\K_Reverse_Operator.deps.json
+H:\LINQ\LINQ\K_Reverse_Operator\bin\Debug\netcoreapp3.1\K_Reverse_Operator.runtimeconfig.json
+H:\LINQ\LINQ\K_Reverse_Operator\bin\Debug\netcoreapp3.1\K_Reverse_Operator.runtimeconfig.dev.json
+H:\LINQ\LINQ\K_Reverse_Operator\bin\Debug\netcoreapp3.1\K_Reverse_Operator.dll
+H:\LINQ\LINQ\K_Reverse_Operator\bin\Debug\netcoreapp3.1\K_Reverse_Operator.pdb
+H:\LINQ\LINQ\K_Reverse_Operator\obj\Debug\netcoreapp3.1\K_Reverse_Operator.csprojAssemblyReference.cache
+H:\LINQ\LINQ\K_Reverse_Operator\obj\Debug\netcoreapp3.1\K_Reverse_Operator.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\K_Reverse_Operator\obj\Debug\netcoreapp3.1\K_Reverse_Operator.AssemblyInfo.cs
+H:\LINQ\LINQ\K_Reverse_Operator\obj\Debug\netcoreapp3.1\K_Reverse_Operator.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\K_Reverse_Operator\obj\Debug\netcoreapp3.1\K_Reverse_Operator.dll
+H:\LINQ\LINQ\K_Reverse_Operator\obj\Debug\netcoreapp3.1\K_Reverse_Operator.pdb
+H:\LINQ\LINQ\K_Reverse_Operator\obj\Debug\netcoreapp3.1\K_Reverse_Operator.genruntimeconfig.cache

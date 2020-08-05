@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\R_Inner_Join\bin\Debug\netcoreapp3.1\R_Inner_Join.exe
+H:\LINQ\LINQ\R_Inner_Join\bin\Debug\netcoreapp3.1\R_Inner_Join.deps.json
+H:\LINQ\LINQ\R_Inner_Join\bin\Debug\netcoreapp3.1\R_Inner_Join.runtimeconfig.json
+H:\LINQ\LINQ\R_Inner_Join\bin\Debug\netcoreapp3.1\R_Inner_Join.runtimeconfig.dev.json
+H:\LINQ\LINQ\R_Inner_Join\bin\Debug\netcoreapp3.1\R_Inner_Join.dll
+H:\LINQ\LINQ\R_Inner_Join\bin\Debug\netcoreapp3.1\R_Inner_Join.pdb
+H:\LINQ\LINQ\R_Inner_Join\obj\Debug\netcoreapp3.1\R_Inner_Join.csprojAssemblyReference.cache
+H:\LINQ\LINQ\R_Inner_Join\obj\Debug\netcoreapp3.1\R_Inner_Join.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\R_Inner_Join\obj\Debug\netcoreapp3.1\R_Inner_Join.AssemblyInfo.cs
+H:\LINQ\LINQ\R_Inner_Join\obj\Debug\netcoreapp3.1\R_Inner_Join.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\R_Inner_Join\obj\Debug\netcoreapp3.1\R_Inner_Join.dll
+H:\LINQ\LINQ\R_Inner_Join\obj\Debug\netcoreapp3.1\R_Inner_Join.pdb
+H:\LINQ\LINQ\R_Inner_Join\obj\Debug\netcoreapp3.1\R_Inner_Join.genruntimeconfig.cache

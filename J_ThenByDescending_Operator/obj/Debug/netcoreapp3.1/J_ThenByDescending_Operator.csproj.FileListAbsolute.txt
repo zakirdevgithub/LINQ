@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\J_ThenByDescending_Operator\bin\Debug\netcoreapp3.1\J_ThenByDescending_Operator.exe
+H:\LINQ\LINQ\J_ThenByDescending_Operator\bin\Debug\netcoreapp3.1\J_ThenByDescending_Operator.deps.json
+H:\LINQ\LINQ\J_ThenByDescending_Operator\bin\Debug\netcoreapp3.1\J_ThenByDescending_Operator.runtimeconfig.json
+H:\LINQ\LINQ\J_ThenByDescending_Operator\bin\Debug\netcoreapp3.1\J_ThenByDescending_Operator.runtimeconfig.dev.json
+H:\LINQ\LINQ\J_ThenByDescending_Operator\bin\Debug\netcoreapp3.1\J_ThenByDescending_Operator.dll
+H:\LINQ\LINQ\J_ThenByDescending_Operator\bin\Debug\netcoreapp3.1\J_ThenByDescending_Operator.pdb
+H:\LINQ\LINQ\J_ThenByDescending_Operator\obj\Debug\netcoreapp3.1\J_ThenByDescending_Operator.csprojAssemblyReference.cache
+H:\LINQ\LINQ\J_ThenByDescending_Operator\obj\Debug\netcoreapp3.1\J_ThenByDescending_Operator.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\J_ThenByDescending_Operator\obj\Debug\netcoreapp3.1\J_ThenByDescending_Operator.AssemblyInfo.cs
+H:\LINQ\LINQ\J_ThenByDescending_Operator\obj\Debug\netcoreapp3.1\J_ThenByDescending_Operator.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\J_ThenByDescending_Operator\obj\Debug\netcoreapp3.1\J_ThenByDescending_Operator.dll
+H:\LINQ\LINQ\J_ThenByDescending_Operator\obj\Debug\netcoreapp3.1\J_ThenByDescending_Operator.pdb
+H:\LINQ\LINQ\J_ThenByDescending_Operator\obj\Debug\netcoreapp3.1\J_ThenByDescending_Operator.genruntimeconfig.cache

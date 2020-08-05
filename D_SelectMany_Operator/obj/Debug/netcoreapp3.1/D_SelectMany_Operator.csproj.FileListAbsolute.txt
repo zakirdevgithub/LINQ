@@ -1,0 +1,13 @@
+H:\LINQ\LINQ\D_SelectMany_Operator\bin\Debug\netcoreapp3.1\D_SelectMany_Operator.exe
+H:\LINQ\LINQ\D_SelectMany_Operator\bin\Debug\netcoreapp3.1\D_SelectMany_Operator.deps.json
+H:\LINQ\LINQ\D_SelectMany_Operator\bin\Debug\netcoreapp3.1\D_SelectMany_Operator.runtimeconfig.json
+H:\LINQ\LINQ\D_SelectMany_Operator\bin\Debug\netcoreapp3.1\D_SelectMany_Operator.runtimeconfig.dev.json
+H:\LINQ\LINQ\D_SelectMany_Operator\bin\Debug\netcoreapp3.1\D_SelectMany_Operator.dll
+H:\LINQ\LINQ\D_SelectMany_Operator\bin\Debug\netcoreapp3.1\D_SelectMany_Operator.pdb
+H:\LINQ\LINQ\D_SelectMany_Operator\obj\Debug\netcoreapp3.1\D_SelectMany_Operator.csprojAssemblyReference.cache
+H:\LINQ\LINQ\D_SelectMany_Operator\obj\Debug\netcoreapp3.1\D_SelectMany_Operator.AssemblyInfoInputs.cache
+H:\LINQ\LINQ\D_SelectMany_Operator\obj\Debug\netcoreapp3.1\D_SelectMany_Operator.AssemblyInfo.cs
+H:\LINQ\LINQ\D_SelectMany_Operator\obj\Debug\netcoreapp3.1\D_SelectMany_Operator.csproj.CoreCompileInputs.cache
+H:\LINQ\LINQ\D_SelectMany_Operator\obj\Debug\netcoreapp3.1\D_SelectMany_Operator.dll
+H:\LINQ\LINQ\D_SelectMany_Operator\obj\Debug\netcoreapp3.1\D_SelectMany_Operator.pdb
+H:\LINQ\LINQ\D_SelectMany_Operator\obj\Debug\netcoreapp3.1\D_SelectMany_Operator.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "N_Intersect_Union_Operator/1.0.0": {
+        "runtime": {
+          "N_Intersect_Union_Operator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "N_Intersect_Union_Operator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
